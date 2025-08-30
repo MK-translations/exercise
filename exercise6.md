@@ -1,1 +1,0 @@
-This is a temporary file to train renaming and deleting process in Git and GitHub.
